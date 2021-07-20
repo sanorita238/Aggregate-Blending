@@ -1,4 +1,4 @@
-# Aggregate Blending
+# Aggregate Blending IIT BHU
 
 ## Introduction
 
@@ -21,6 +21,16 @@ In the project directory, you can run:
 
 ### To Visit App: 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Languages Used
+- Python
+- React
+- JavaScript
+- HTML
+- CSS
+
+### To know about the algorithm. [Click here](https://drive.google.com/file/d/1QfEt3I4g0Jlau8-shAbqVhITEPaEEJ2Z/view)
+
 
 
 
