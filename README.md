@@ -4,7 +4,6 @@
 
 A web application to find all possible combination of stockpiles satisfying the desired aggregate range criteria corresponding to various sieve sizes.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation and Setup Instructions
 
