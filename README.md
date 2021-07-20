@@ -1,4 +1,4 @@
-# Aggregate Blending IIT BHU
+# Aggregate Blending
 
 ## Introduction
 
